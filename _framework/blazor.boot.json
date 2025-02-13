@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ClinicaMedicaFront",
   "resources": {
-    "hash": "sha256-M+N5YFf7EJG+QH165iEHrQoat02hurGjwdzis6fRhLw=",
+    "hash": "sha256-oOdzaPSP5WARvxDT/ocV0z5o9qcdliIGskUNzn9G+rk=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.tcetv3isi1.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "ClinicaMedicaFront.wasm": "sha256-tIfT1c5nFpSFGqnLyFGviQVfQRCMac57yBdj/luHXK4=",
+      "ClinicaMedicaFront.wasm": "sha256-WLz+qZeOd8bjw7rLY8FBR3B6zeq3xz4v966AoXiQbPY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-ngWWxXpFh9PJ1khFO2MfAYtDIrnmJ7/oJIvvwt6nNkI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-mmo6S4AxiBcnKbs4b+7ObftqPCkIcLGiAv9gICT/5NY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-EdDHaRwC+IiRbs5nF/kZcIv4IvrF9EkWsl82UpFfPyw=",
